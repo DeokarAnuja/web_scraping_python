@@ -1,2 +1,2 @@
-# web_scraping_python
+# Web Scraping using Python
 Repo to practice Web Scraping
